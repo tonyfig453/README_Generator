@@ -1,5 +1,5 @@
 # README_Generator 
-            [![GitHub license](https://img.shields.io/badge/<License>-MIT-<COLOR>.svg)](https://shields.io/)
+            [![GitHub license](https://img.shields.io/badge/License-MIT-<COLOR>.svg)] (https://shields.io/)
             
 ## Table of contents
 
@@ -16,7 +16,7 @@
 *[Questions](#Questions)
             
  Description 
-create a README.md file just by answering a few questions!
+create a README.md file just by answering a few questions
             
 ## Installation 
 
@@ -27,7 +27,7 @@ create a README.md file just by answering a few questions!
             
 ## Usage 
 
-It is useful if you want to make a README.md quick
+It is very useful if you want to create a readme.md quick
 
 
             
@@ -39,7 +39,7 @@ It is useful if you want to make a README.md quick
 
             
 ## Contribution 
-any suggestions let me know!
+open to any suggestions to make it better
             
 ## Tests 
 
