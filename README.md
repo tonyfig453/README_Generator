@@ -1,32 +1,51 @@
-READ ME
-        [![GitHub license](https://img.shields.io/badge/<License>-MIT-<COLOR>.svg)] (https://shields.io/)
-Table of contents
-*Installation
+# README_Generator 
+            [![GitHub license](https://img.shields.io/badge/<License>-MIT-<COLOR>.svg)](https://shields.io/)
+            
+## Table of contents
 
-*Usage
+*[Installation](#installation)
 
-*License
+*[Usage](#Usage)
 
-*Contribution
+*[License](#Licence)
 
-*Tests
+*[Contribution](#Contribution)
 
-*Questions
+*[Tests](#Tests)
 
-Description create read me
+*[Questions](#Questions)
+            
+ Description 
+create a README.md file just by answering a few questions!
+            
+## Installation 
 
-Installation
-        To install run the following npm i
-Usage
-useful
 
-Licence
-        Licenced by MIT
-Contribution
-heeelp
+            To install run the following npm i
 
-Tests
-        To run test run the following npm test
-Questions
-if you have any questions contact me at tonyfig453 at tonyfig453@hotmail.com
 
+            
+## Usage 
+
+It is useful if you want to make a README.md quick
+
+
+            
+## Licence 
+
+
+            Licenced by MIT
+
+
+            
+## Contribution 
+any suggestions let me know!
+            
+## Tests 
+
+
+            To run test run the following npm test
+            
+## Questions 
+
+if you have any questions contact me at [tonyfig453](https://github.com/tonyfig453/README_Generator) at tonyfig453@hotmail.com 
