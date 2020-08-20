@@ -1,5 +1,5 @@
 # README_Generator 
-            [![GitHub license](https://img.shields.io/badge/License-MIT-<COLOR>.svg)] (https://shields.io/)
+            [![GitHub license](https://img.shields.io/badge/License-MIT-<COLOR>.svg)](https://shields.io/)
             
 ## Table of contents
 
